@@ -6,11 +6,11 @@
 
 
 def addTwoNums(firstNum, secondNum):
-    print(firstNum + str(secondNum))
+    print(firstNum + secondNum)
 
 
 def main():
-    int h = "fortyfive"
+    h = 45
     addTwoNums(8, h)
 
 
