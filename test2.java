@@ -3,9 +3,10 @@
 //Make sure you have the compiler/interpreter
 
 
-public class test2 
+public class test2{ 
     public static void main(String[] args){
-        return
-        System.out.println("Wooohoooo bug solved")
+        
+        System.out.println("Wooohoooo bug solved");
     
+    }
 }
